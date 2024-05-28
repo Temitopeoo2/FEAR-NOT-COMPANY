@@ -23,4 +23,4 @@ Select * from table 1
 
 Where  conditional = Net 
 
-![](Analysi-.jpg)
+![](Analysi-2.jpg)
