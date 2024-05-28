@@ -14,9 +14,10 @@ Briefly explain the role of Database management system in the context of SQL
   ## Data Source
 # Excel
 ```
-Name /    Age  / Gender
-Ade  /    12   /    Male
-Mary /   10    /  Female 
+|Name |    Age  | Gender |
+|-----|-----|-----|
+| Ade  | 12  | Male |
+|Mary| 10 | Female | 
 
 ```
 ## Google Sheet
