@@ -24,5 +24,4 @@ Select * from table 1
 Where  conditional = Net 
 
 
-
-``
+![{(Anaylsi 2)
