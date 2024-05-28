@@ -10,12 +10,13 @@ Briefly explain the role of Database management system in the context of SQL
 * MS word
 * Ms Excel _**[download here](https.microsoft.com)**__
 * Google sheet
-  ---
-  ## Data Source
 
+  ## Data Source
+# Excel
 ```
-Heading 1    Heading 2    Heading 3
-Data  1      Data 2        Data 3
+Name /    Age  / Gender
+Ade  /    12   /    Male
+Mary /   10    /  Female 
 
 ```
 ## Google Sheet
