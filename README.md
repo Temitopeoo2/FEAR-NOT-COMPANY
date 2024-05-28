@@ -24,4 +24,4 @@ Select * from table 1
 Where  conditional = Net 
 
 
-![](Analysi2)
+![](Analysi 2)
